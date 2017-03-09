@@ -1,0 +1,22 @@
+{
+  "name": "minify-json",
+  "version": "1.0.0",
+  "description": "Minify JSON & GeoJSON Files",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "minify-json": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civilserviceusa/minify-json.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/civilserviceusa/minify-json/issues"
+  },
+  "homepage": "https://github.com/civilserviceusa/minify-json#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
